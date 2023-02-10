@@ -1,4 +1,4 @@
-# Cordova Deeplinks Plugin
+# Cordova Deeplinks Plugin by 40Bears Dev team
 
 **NOTE:** This is a fork from the original cordova plugin "cordova-deeplinks" that in turn is a fork from "cordova-universal-links-plugin"
 
